@@ -1,8 +1,6 @@
 ---
 items:
-  - text: Menu One
+  - text: Авторы
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Blog
+  - text: Новости
     url: "/blog"
