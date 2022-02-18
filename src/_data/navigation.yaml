@@ -1,6 +1,6 @@
 ---
 items:
   - text: Авторы
-    url: "/about/"
+    url: "/about"
   - text: Новости
     url: "/blog"
