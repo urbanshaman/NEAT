@@ -1,6 +1,6 @@
 ---
 items:
-  - text: Авторы
+  - text: "О нас"
     url: "/about"
   - text: Новости
     url: "/blog"
